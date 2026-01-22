@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 # 📈 Contributions & Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilarpan7&theme=github-dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
