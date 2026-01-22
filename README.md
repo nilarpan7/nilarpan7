@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 ---
 # 📈 Contributions & Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilarpan7&theme=github-dark)
+
+# 📊 Contribution Grid
+
 ![GitHub Contribution Grid](https://ghchart.rshah.org/nilarpan7)
 
 
