@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey,+I%27m+Nilarpan;Full+Stack+Developer+%F0%9F%94%A5;Machine+Learning+Enthusiast+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey,+I%27m+Nilarpan;Full+Stack+Developer;Machine+Learning+Enthusiast" />
 </p>
+
 
 
 
