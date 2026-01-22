@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 # 📊 Contribution Grid
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/nilarpan7" alt="GitHub Contribution Grid">
+  <img src="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
