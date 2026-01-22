@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=28&
+    pause=1000&
+    color=38BDF8&
+    center=true&
+    vCenter=true&
+    width=750&
+    lines=Hay,+I'm+Nilarpan;
+    Full+Stack+Developer+🔥
+    Machine+Learning+Enthusiast+🚀/>
+</p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
