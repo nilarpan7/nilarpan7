@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 ---
 # 📈 Contributions & Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilarpan7&theme=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
