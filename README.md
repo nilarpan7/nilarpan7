@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 ⚡ I love creating new things<br>🚀 Turning imagination into reality<br>🌱 Aspiring MERN Stack<br>🤖 Exploring AI / ML 
 # 🧩 Current Focus
 🔭 Building full-stack web apps (Node.js + Express + MongoDB)<br>
-🧠 Playing with computer vision & ML (OpenCV, TensorFlow, scikit-learn)<br>
-🎨 Designing interactive 3D / visual experiences (Three.js)<br>
-☁️ Exploring cloud stuff (AWS & Google Cloud)
+🧠 Learning ML (Numpy, pandas, TensorFlow, scikit-learn)<br>
+🎨 Designing interactive 3D web pages
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nilarpan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nilarpan-jana-3a6935321/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NilarpanJ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nnilarpan@gmail.com) 
@@ -38,14 +37,9 @@ Here are some ideas to get you started:
 ---
 # 📈 Contributions & Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilarpan7&theme=github-dark)
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/pacman-contribution-graph.svg" />
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
