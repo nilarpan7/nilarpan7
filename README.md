@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 ---
 # 📈 Contributions & Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nilarpan7&theme=github-dark)
-<br clear="both">
+![Snake animation](https://github.com/nilarpan7/nilarpan7/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/nilarpan7/nilarpan7/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
